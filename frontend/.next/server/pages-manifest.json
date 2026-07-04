@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/payroll": "pages/payroll.js",
+  "/leave": "pages/leave.js",
+  "/dashboard/employee": "pages/dashboard/employee.js",
+  "/attendance": "pages/attendance.js",
+  "/profile": "pages/profile.js",
+  "/dashboard/admin": "pages/dashboard/admin.js"
+}
