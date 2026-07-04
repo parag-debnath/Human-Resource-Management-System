@@ -24,7 +24,7 @@ cp .env.example .env
 npm run dev
 ```
 
-Runs on `http://localhost:5000`. Test it's alive: open that URL, you should see `{"status":"HRMS API running"}`.
+we Runs it . Test it's alive 
 
 **No MongoDB installed?** Fastest option for a hackathon: create a free cluster at mongodb.com/atlas, grab the connection string, paste it into `MONGO_URI`.
 
